@@ -1,1 +1,1 @@
-# TitanicKagglePractice
+# KaggleDSPractice
